@@ -10,4 +10,5 @@ The ability to predict the bandgaps and efficiency of perovskite solar cells rap
 ![5FoldsR2](https://user-images.githubusercontent.com/94437138/236134681-ffb5a061-edce-4225-94f3-bf83d5cc5ac1.png)
 
 # Dummy dataset
+In this study, we also generated a dummy dataset of millions of data points with random values for a_ions (Cs, FA, MA), b_ions (Pb, Sn), c_ions (Br, I), and the thickness of perovskite layer. We then used our proposed model to predict the bandgap values of these samples. After predicting the bandgaps for all the samples, we selected 500 samples that had high bandgap values. These samples are now available for further experimentation and analysis on the following csv file
 [Top_500_prediction.csv](https://github.com/AsadKhanJBNU/perovskite_bandgap_and_efficiency/files/11394564/Top_500_prediction.csv)
