@@ -12,3 +12,12 @@ The ability to predict the bandgaps and efficiency of perovskite solar cells rap
 # Dummy dataset
 We also generated a dummy dataset of millions of data points with random values for a_ions (Cs, FA, MA), b_ions (Pb, Sn), c_ions (Br, I), and the thickness of perovskite layer. We then used our proposed model to predict the bandgap values of these samples. After predicting the bandgaps for all the samples, we selected 500 samples that had high bandgap values. These samples are now available for further experimentation and analysis on the following csv file
 [Top_500_prediction.csv](https://github.com/AsadKhanJBNU/perovskite_bandgap_and_efficiency/files/11394564/Top_500_prediction.csv)
+
+# Web-server
+In this paper, we provide a web-server tool that we have built to help researchers to calculate the bandgap and efficiency of PSCs. Access to the tool is available at https://nsclbio.jbnu.ac.kr/tools/bandgap. We make a step-by-step guide on using this web-server effectively to simplify things for users.
+•	The input to the web-server can be given directly in the text box.
+•	a_ions 'Cs', 'FA', 'MA' - note that the sum of these 3 inputs should be equal to 1.
+•	b_ions 'Pb', 'Sn' - note that the sum of these 2 inputs should be equal to 1.
+•	c_ions 'Br', 'I' - note that the sum of these 2 inputs should be equal to 3.
+•	The last input text box is the thickness in Nanometer (nm).
+A web-server is depicted in Figure, illustrating the user input process and the prediction results of our proposed model for bandgap and efficiency.
