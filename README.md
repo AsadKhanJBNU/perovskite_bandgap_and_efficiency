@@ -14,13 +14,11 @@ We also generated a dummy dataset of millions of data points with random values 
 [Top_500_prediction.csv](https://github.com/AsadKhanJBNU/perovskite_bandgap_and_efficiency/files/11394564/Top_500_prediction.csv)
 
 # Web-server
-In this paper, we provide a web-server tool that we have built to help researchers to calculate the bandgap and efficiency of PSCs. Access to the tool is available at https://nsclbio.jbnu.ac.kr/tools/bandgap. We make a step-by-step guide on using this web-server effectively to simplify things for users.
-
+In this paper, we provide a web-server tool that we have built to help researchers to calculate the bandgap and efficiency of PSCs. Access to the tool is available at https://nsclbio.jbnu.ac.kr/tools/bandgap. We make a step-by-step guide on using this web-server effectively to simplify things for users.<br>
 •	The input to the web-server can be given directly in the text box. <br>
-•	a_ions 'Cs', 'FA', 'MA' - note that the sum of these 3 inputs should be equal to 1.
-•	b_ions 'Pb', 'Sn' - note that the sum of these 2 inputs should be equal to 1.
-•	c_ions 'Br', 'I' - note that the sum of these 2 inputs should be equal to 3.
-•	The last input text box is the thickness in Nanometer (nm).
-
+•	a_ions 'Cs', 'FA', 'MA' - note that the sum of these 3 inputs should be equal to 1.<br>
+•	b_ions 'Pb', 'Sn' - note that the sum of these 2 inputs should be equal to 1.<br>
+•	c_ions 'Br', 'I' - note that the sum of these 2 inputs should be equal to 3.<br>
+•	The last input text box is the thickness in Nanometer (nm).<br>
 A web-server is depicted in Figure, illustrating the user input process and the prediction results of our proposed model for bandgap and efficiency.
 
