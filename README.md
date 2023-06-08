@@ -19,8 +19,4 @@ In this paper, we provide a web-server tool that we have built to help researche
 •	a_ions 'Cs', 'FA', 'MA' - note that the sum of these 3 inputs should be equal to 1.<br>
 •	b_ions 'Pb', 'Sn' - note that the sum of these 2 inputs should be equal to 1.<br>
 •	c_ions 'Br', 'I' - note that the sum of these 2 inputs should be equal to 3.<br>
-•	The last input text box is the thickness in Nanometer (nm).<br>
-A web-server is depicted in Figure, illustrating the user input process and the prediction results of our proposed model for bandgap and efficiency.
-
-![webServer](https://github.com/AsadKhanJBNU/perovskite_bandgap_and_efficiency/assets/94437138/70f888d0-5d20-4b1f-b12d-3fdb3daa70f7)
-![webServerB](https://github.com/AsadKhanJBNU/perovskite_bandgap_and_efficiency/assets/94437138/87712571-de95-4328-84ed-c471b455f81d)
+•	The last input text box is the thickness in Nanometer (nm).
