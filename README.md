@@ -5,16 +5,6 @@ The ability to predict the bandgaps and efficiency of perovskite solar cells rap
 # Data flow diagram
 ![Abstract](https://user-images.githubusercontent.com/94437138/236134410-b1a78779-1bb7-48c3-97f1-a6f561c68abf.png)
 
-# Developer
-Asad Khan (Contact asadkhan@jbnu.ac.kr)
-
-# Requirements
-•	Python <br>
-•	Numpy <br>
-•	sklearn <br>
-•	catboost <br>
-
-
 # Results 
 ![merge_from_ofoctNew](https://user-images.githubusercontent.com/94437138/236134654-7b1f07ba-cd90-469e-b035-7bb27d6cc4a7.jpg)
 ![5FoldsR2](https://user-images.githubusercontent.com/94437138/236134681-ffb5a061-edce-4225-94f3-bf83d5cc5ac1.png)
@@ -30,3 +20,12 @@ In this paper, we provide a web-server tool that we have built to help researche
 •	b_ions 'Pb', 'Sn' - note that the sum of these 2 inputs should be equal to 1.<br>
 •	c_ions 'Br', 'I' - note that the sum of these 2 inputs should be equal to 3.<br>
 •	The last input text box is the thickness in Nanometer (nm).
+
+# Requirements
+•	Python <br>
+•	Numpy <br>
+•	sklearn <br>
+•	catboost <br>
+
+# Developer
+Asad Khan (Contact asadkhan@jbnu.ac.kr)
