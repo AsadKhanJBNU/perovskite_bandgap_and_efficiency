@@ -16,7 +16,7 @@ We also generated a dummy dataset of millions of data points with random values 
 # Web-server
 In this paper, we provide a web-server tool that we have built to help researchers to calculate the bandgap and efficiency of PSCs. Access to the tool is available at https://nsclbio.jbnu.ac.kr/tools/bandgap. We make a step-by-step guide on using this web-server effectively to simplify things for users.
 
-•	The input to the web-server can be given directly in the text box. \n
+•	The input to the web-server can be given directly in the text box. /n
 •	a_ions 'Cs', 'FA', 'MA' - note that the sum of these 3 inputs should be equal to 1.
 •	b_ions 'Pb', 'Sn' - note that the sum of these 2 inputs should be equal to 1.
 •	c_ions 'Br', 'I' - note that the sum of these 2 inputs should be equal to 3.
