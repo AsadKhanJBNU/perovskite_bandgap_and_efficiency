@@ -8,7 +8,7 @@ The ability to predict the bandgaps and efficiency of perovskite solar cells rap
 # Developer
 Asad Khan (Contact asadkhan@jbnu.ac.kr)
 
-#Requirements
+# Requirements
 •	Python <br>
 •	Numpy <br>
 •	sklearn <br>
