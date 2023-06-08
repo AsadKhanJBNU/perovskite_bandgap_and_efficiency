@@ -22,3 +22,5 @@ In this paper, we provide a web-server tool that we have built to help researche
 •	The last input text box is the thickness in Nanometer (nm).<br>
 A web-server is depicted in Figure, illustrating the user input process and the prediction results of our proposed model for bandgap and efficiency.
 
+![webServer](https://github.com/AsadKhanJBNU/perovskite_bandgap_and_efficiency/assets/94437138/70f888d0-5d20-4b1f-b12d-3fdb3daa70f7)
+![webServerB](https://github.com/AsadKhanJBNU/perovskite_bandgap_and_efficiency/assets/94437138/87712571-de95-4328-84ed-c471b455f81d)
