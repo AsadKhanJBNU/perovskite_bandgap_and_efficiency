@@ -23,3 +23,4 @@ In this paper, we provide a web-server tool that we have built to help researche
 •	The last input text box is the thickness in Nanometer (nm).
 
 A web-server is depicted in Figure, illustrating the user input process and the prediction results of our proposed model for bandgap and efficiency.
+
