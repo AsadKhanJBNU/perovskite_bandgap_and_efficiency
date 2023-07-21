@@ -6,8 +6,9 @@ The ability to predict the bandgaps and efficiency of perovskite solar cells rap
 ![Abstract](https://user-images.githubusercontent.com/94437138/236134410-b1a78779-1bb7-48c3-97f1-a6f561c68abf.png)
 
 # Results 
-![merge_from_ofoctNew](https://user-images.githubusercontent.com/94437138/236134654-7b1f07ba-cd90-469e-b035-7bb27d6cc4a7.jpg)
-![5FoldsR2](https://user-images.githubusercontent.com/94437138/236134681-ffb5a061-edce-4225-94f3-bf83d5cc5ac1.png)
+![resultsMain](https://github.com/AsadKhanJBNU/perovskite_bandgap_and_efficiency/assets/94437138/e2118052-c8a8-450c-aac4-8f38281a1c55)
+![FoldsR2Bandgap](https://github.com/AsadKhanJBNU/perovskite_bandgap_and_efficiency/assets/94437138/6e37edc5-6608-408c-8f72-5c5355e1fdf7)
+
 
 # Dummy dataset
 We also generated a dummy dataset of millions of data points with random values for a_ions (Cs, FA, MA), b_ions (Pb, Sn), c_ions (Br, I), and the thickness of perovskite layer. We then used our proposed model to predict the bandgap values of these samples. After predicting the bandgaps for all the samples, we selected 500 samples that had high bandgap values. These samples are now available for further experimentation and analysis on the following csv file
